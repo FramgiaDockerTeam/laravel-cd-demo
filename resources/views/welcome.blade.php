@@ -6,7 +6,7 @@
         <div class="col-md-10 col-md-offset-1">
             <div class="panel panel-default">
                 <div class="panel-heading">Welcome to a Demo Site</div>
-
+                <p>Thang dep trai</p>
                 <div class="panel-body">
                     Your Application's Landing Page.
                 </div>
